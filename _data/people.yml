@@ -5,11 +5,14 @@ instructors:
   - name: Shubham Chandak
     profile_pic: /_images/pp/shubham.jpg
     webpage: https://shubhamchandak94.github.io
+  - name: Kedar Tatwawadi
+    profile_pic: /_images/pp/kedar.png
+    webpage: https://www.linkedin.com/in/kedar-tatwawadi-6914981b/
   - name: Tsachy Weissman
     profile_pic: /_images/pp/tsachy.jpg
     webpage: https://web.stanford.edu/~tsachy/
 
 teaching_assistants:
-  - name: Noah Huffman
-    profile_pic: /_images/pp/noah.jpg
-    webpage: https://www.linkedin.com/in/noah-huffman-b48b28102/
+  - name: Jiwon Jeong
+    profile_pic: /_images/pp/jiwon.jpg
+    webpage: https://www.linkedin.com/in/jiwon-jeong-865b2422b/
