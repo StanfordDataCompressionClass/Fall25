@@ -3,17 +3,17 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /logistics/
-  name: Logistics
-  icon_class: fas fa-calendar-alt
+# - url: /logistics/
+#   name: Logistics
+#   icon_class: fas fa-calendar-alt
 
-- url: /lectures/
-  name: Lectures
-  icon_class: fas fa-book-reader
+# - url: /lectures/
+#   name: Lectures
+#   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Assignments
-  icon_class: fas fa-user-graduate
+# - url: /assignments/
+#   name: Assignments
+#   icon_class: fas fa-user-graduate
 
 #- url: /project/
 #  name: Project
