@@ -3,9 +3,7 @@ type: lecture
 
 [//]: # (date: 2022-09-29)
 title: Week 2 [2025-09-30]
-tldr: |
-  1. Review prefix codes and entropy
-  2. Introduction to Stanford compression library (SCL)
+tldr: "1. Review prefix codes and entropy<br>2. Introduction to Stanford compression library (SCL)"
 hide_from_announcments: true
 links: 
   - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/prefix_free_codes.html
@@ -20,7 +18,7 @@ links:
     name: Prefix-free Compressor code
 
 ---
-** Pre-lecture material from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/) **
+Pre-lecture material from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/)
 1. 2023 Lecture 1 part 2: Introduction to lossless compression
 2. 2023 Lecture 2: Prefix Free Codes
 3. 2023 Lecture 3: Kraft Inequality, Entropy, Introduction to SCL
