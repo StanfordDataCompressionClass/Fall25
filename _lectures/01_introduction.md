@@ -2,7 +2,7 @@
 type: lecture
 
 [//]: # (date: 2022-09-27)
-title: Lecture 1 [2023-09-27]
+title: Week 1 [2025-09-23]
 tldr: "Course Introduction, Lossless Data Compression Basics"
 hide_from_announcments: true
 links: 

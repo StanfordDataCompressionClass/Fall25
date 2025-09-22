@@ -20,7 +20,7 @@ links:
     name: Prefix-free Compressor code
 
 ---
-Pre-lecture material from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/)
+** Pre-lecture material from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/) **
 1. 2023 Lecture 1 part 2: Introduction to lossless compression
 2. 2023 Lecture 2: Prefix Free Codes
 3. 2023 Lecture 3: Kraft Inequality, Entropy, Introduction to SCL
