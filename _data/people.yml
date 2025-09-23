@@ -2,9 +2,9 @@ instructors:
   - name: Shubham Chandak
     profile_pic: /_images/pp/shubham.jpg
     webpage: https://shubhamchandak94.github.io
-  - name: Kedar Tatwawadi
-    profile_pic: /_images/pp/kedar.png
-    webpage: https://www.linkedin.com/in/kedar-tatwawadi-6914981b/
+  # - name: Kedar Tatwawadi
+  #   profile_pic: /_images/pp/kedar.png
+  #   webpage: https://www.linkedin.com/in/kedar-tatwawadi-6914981b/
   - name: Tsachy Weissman
     profile_pic: /_images/pp/tsachy.jpg
     webpage: https://web.stanford.edu/~tsachy/
