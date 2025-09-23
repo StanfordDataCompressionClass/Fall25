@@ -9,6 +9,14 @@ instructors:
     profile_pic: /_images/pp/tsachy.jpg
     webpage: https://web.stanford.edu/~tsachy/
 
+mentors/guest lecturers:
+  - name: Kedar Tatwawadi
+    profile_pic: /_images/pp/kedar.png
+    webpage: https://www.linkedin.com/in/kedar-tatwawadi-6914981b/
+  - name: Pulkit Tandon
+    profile_pic: /_images/pp/pulkit.png
+    webpage: https://www.linkedin.com/in/pulkit-tandon-8621a3a8/
+
 teaching_assistants:
   - name: Jiwon Jeong
     profile_pic: /_images/pp/jiwon.jpg
