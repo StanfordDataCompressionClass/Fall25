@@ -16,17 +16,18 @@ the respective staff.
     - Sr. Applied Scientist at S3, Amazon Web Services
     - schandak [AT] stanford [DOT] edu
     - **Office hours:** `Monday, 8-9pm, Online (Link TBA)`
-- **Kedar Tatwawadi** (Instructor)
+- **Kedar Tatwawadi** (Guest Lecturer)
   - ML/Video Researcher at Apple
   - kedart [AT] stanford [DOT] edu
   - **Office hours:** `Tuesday, 3-4pm, Thornton 208`
 - **Pulkit Tandon** (Guest Lecturer)
   - Research Engineer at Granica
   - tpulkit [AT] stanford [DOT] edu
+  - **Office hours:** `Tuesday, 3-4pm, Thornton 208`
 - **Jiwon Jeong** (TA)
   - Electrical Engineering, Stanford
   - jeongjw [AT] stanford [DOT] edu
-  - **Office hours:** `Thursday, 3-4pm, Packard 171`
+  - **Office hours:** `Thursday, 10-11am, Packard 171`
 
 
 ## Lectures
