@@ -27,7 +27,7 @@ the respective staff.
 - **Jiwon Jeong** (TA)
   - Electrical Engineering, Stanford
   - jeongjw [AT] stanford [DOT] edu
-  - **Office hours:** `Thursday, 10-11am, Packard 171`
+  - **Office hours:** `Thursday, 10-11am, Packard 104`
 
 
 ## Lectures
