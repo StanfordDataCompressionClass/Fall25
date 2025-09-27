@@ -13,7 +13,7 @@ the respective staff.
     - tsachy [AT] stanford [DOT] edu
     - **Office hours:** `Tuesday, 12-1pm, Packard 256`
 - **Shubham Chandak** (Instructor)
-    - Sr. Applied Scientist at S3, Amazon Web Services
+    - Sr. Applied Scientist at Annapurna, Amazon Web Services
     - schandak [AT] stanford [DOT] edu
     - **Office hours:** `Monday, 8-9pm, Online (Link TBA)`
 - **Kedar Tatwawadi** (Guest Lecturer)
