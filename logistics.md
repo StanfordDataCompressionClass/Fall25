@@ -15,7 +15,7 @@ the respective staff.
 - **Shubham Chandak** (Instructor)
     - Sr. Applied Scientist at Annapurna, Amazon Web Services
     - schandak [AT] stanford [DOT] edu
-    - **Office hours:** `Monday, 8-9pm, Online (Link TBA)`
+    - **Office hours:** `Monday, 8-9pm, Online` (Link on [Ed](https://edstem.org/us/courses/87442/discussion/7037290))
 - **Kedar Tatwawadi** (Guest Lecturer)
   - ML/Video Researcher at Apple
   - kedart [AT] stanford [DOT] edu
