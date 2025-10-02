@@ -20,11 +20,11 @@ links:
 ---
 **Pre-lecture material** from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/lectures/)
 1. 2023 Lecture 16: Learnt Image Compression <br> 
-[[slides]](/static_files/23_files/slide_16_2023.pdf)
+[[slides]](/Fall25/static_files/23_files/slide_16_2023.pdf)
 [[YouTube]](https://youtu.be/H7dvh35xNuE?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 [[Colab Notebook]](https://colab.research.google.com/drive/1O3eQAaxlyLYI1HO7K1b12eJQsQKxjWwx?usp=sharing)
 [[Quiz]](https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-16-learnt-image-compression)
 2. 2023 Lecture 17: Humans and Compression <br> 
-[[slides]](/static_files/23_files/slide_17_2023.pdf)
+[[slides]](/Fall25/static_files/23_files/slide_17_2023.pdf)
 [[YouTube]](https://youtu.be/LE6GLWv63wc?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 [[Quiz]](https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-17-humans-and-compression)

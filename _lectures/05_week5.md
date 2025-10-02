@@ -20,12 +20,12 @@ links:
 ---
 **Pre-lecture material** from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/lectures/)
 1. 2023 Lecture 8: Beyond IID distributions: Conditional entropy <br> 
-[[slides]](/static_files/23_files/L8.pdf)
+[[slides]](/Fall25/static_files/23_files/L8.pdf)
 [[Non-IID Sources Notes]](https://stanforddatacompressionclass.github.io/notes/lossless_iid/non_iid_sources.html)
 [[YouTube]](https://youtu.be/tGPF2nw5Exc?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 [[Quiz]](https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-8-beyond-iid-distributions-conditional-entropy)
 2. 2023 Lecture 9: Context-based AC & LLM Compression <br> 
-[[slides]](/static_files/23_files/L9_ann.pdf)
+[[slides]](/Fall25/static_files/23_files/L9_ann.pdf)
 [[YouTube]](https://youtu.be/B8ucNShRwjQ?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 [[Context-based coding notes]](https://stanforddatacompressionclass.github.io/notes/lossless_iid/context_based_coding.html)
 [[probability models code]](https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/probability_models.py)

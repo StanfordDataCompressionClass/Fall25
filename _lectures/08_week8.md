@@ -20,12 +20,12 @@ links:
 ---
 **Pre-lecture material** from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/lectures/)
 1. 2023 Lecture 14: Transform Coding in real-life: image, audio, etc. <br> 
-[[Slides]](/static_files/23_files/L14.pdf)
+[[Slides]](/Fall25/static_files/23_files/L14.pdf)
 [[YouTube]](https://youtu.be/eaMrplHvxlg?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 [[Transform Coding Notebook]](https://colab.research.google.com/drive/1Zcnjlco0HEbiTQWvcpiPYA9HbtfB829x#scrollTo=u2mT08CIzvuw)
 [[Audio Compression Notebook]](https://colab.research.google.com/drive/13e81Rgv5KNbT1P_fcguPvldtedogkEJZ#scrollTo=McjXr-nVIII1)
 [[Quiz]](https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-14-transform-coding-in-real-life-image-audio-etc)
 2. 2023 Lecture 15: Image Compression: JPEG, BPG <br> 
-[[slides]](/static_files/23_files/L15_ann.pdf)
+[[slides]](/Fall25/static_files/23_files/L15_ann.pdf)
 [[YouTube]](https://youtu.be/pMNVQIZa-G8?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 [[Quiz]](https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-15-image-compression-jpeg-bpg)

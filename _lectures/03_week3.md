@@ -21,7 +21,7 @@ links:
 **Pre-lecture material** from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/lectures/)
 1. 2023 Lecture 4: Huffman Codes <br> 
 [[Huffman notes]](https://stanforddatacompressionclass.github.io/notes/lossless_iid/huffman.html)
-[[slides]](/static_files/23_files/L4_ann.pdf)
+[[slides]](/Fall25/static_files/23_files/L4_ann.pdf)
 [[YouTube]](https://youtu.be/975qcAxZCG0?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz)
 [[Huffman code]](https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/huffman_coder.py)
 [[Quiz]](https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-4-huffman-codes)
@@ -30,5 +30,5 @@ links:
 [[YouTube]](https://youtu.be/yeKngztLcBs?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz) 
 [[Typical Set coder]](https://github.com/kedartatwawadi/stanford_compression_library/blob/main/scl/compressors/typical_set_coder.py) 
 [[Block Coding colab]](https://colab.research.google.com/drive/16ZVLXaExecJWL5lxvtv5JV0HAjNjcmKY?usp=sharing) 
-[[slides (Huffman extended)]](/static_files/23_files/L4_extended.pdf) 
+[[slides (Huffman extended)]](/Fall25/static_files/23_files/L4_extended.pdf) 
 [[Quiz]](https://stanforddatacompressionclass.github.io/notes/quiz_problems_2023.html#quiz-5-asymptotic-equipartition-property)
