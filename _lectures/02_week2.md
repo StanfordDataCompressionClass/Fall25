@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Week 2 [2025-09-30]
 tldr: "Review + Introduction to Stanford compression library (SCL)"
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
     - url: https://colab.research.google.com/drive/1lQlI3kl_2aPlpInGUVtGxLCdn8enk4Ia?usp=sharing
       name: Colab Notebook
