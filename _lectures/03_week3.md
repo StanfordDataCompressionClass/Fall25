@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Week 3 [2025-10-07]
 tldr: "Review + Canonical Prefix Huffman and Succinct Data Structures"
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
   - url: /static_files/l3_ee274_2025.pdf
     name: slides
