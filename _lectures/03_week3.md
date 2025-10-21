@@ -8,6 +8,8 @@ hide_from_announcments: true
 links: 
   - url: /static_files/l3_ee274_2025.pdf
     name: slides
+  - url: https://chatgpt.com/canvas/shared/68dabb29e9b881918131da8137f85696
+    name: AEP visualization demo
 
 ---
 **Pre-lecture material** from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/lectures/)

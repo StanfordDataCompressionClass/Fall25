@@ -8,6 +8,8 @@ hide_from_announcments: true
 links: 
   - url: /static_files/aec_rans_2025.pdf
     name: slides
+  - url: https://chatgpt.com/canvas/shared/68edf2c8c090819193d97fedd92d5930
+    name: arithmetic coding demo
 
 ---
 **Pre-lecture material** from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/lectures/)

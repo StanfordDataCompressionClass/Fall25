@@ -8,6 +8,8 @@ hide_from_announcments: false
 links: 
  - url: /static_files/arithmetic_context_coding_ee274.pdf
    name: slides 
+ - url: https://chatgpt.com/canvas/shared/68f7c30a956481918b2d563d8cfb0587
+   name: k-order conditional entropy calculator
 
 ---
 **Pre-lecture material** from [Fall 2023 Website](https://stanforddatacompressionclass.github.io/Fall23/lectures/)
