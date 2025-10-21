@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Week 4 [2025-10-14]
 tldr: "Review + extensions of ANS, including rANS and tANS"
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
   - url: /static_files/aec_rans_2025.pdf
     name: slides
