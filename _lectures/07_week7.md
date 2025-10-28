@@ -2,8 +2,8 @@
 type: lecture
 
 [//]: # (date: 2022-09-29)
-title: Week 7 [2025-11-04]
-tldr: "Election day, go vote! No Lecture."
+title: Week 7 [2025-11-04; 2025-11-06]
+tldr: "No Lecture on Nov 4 (Election Day), Topics on LZ + Lossy Compression Review on Nov 6"
 hide_from_announcments: true
 links: 
 #  - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/prefix_free_codes.html
