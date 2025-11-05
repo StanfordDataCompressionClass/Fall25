@@ -6,8 +6,8 @@ title: Week 8 [2025-11-11]
 tldr: "Lossy Compression Review + Side Information (e.g., Slepian-Wolf)"
 hide_from_announcments: true
 links: 
-#  - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/prefix_free_codes.html
-#    name: Prefix Free Codes notes
+ - url: https://chatgpt.com/canvas/shared/690858e94c608191a01aa9c24c638e53
+   name: JPEG compression demo
 #  - url: /static_files/L2_ann.pdf
 #    name: slides 
 ##    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/kraft_ineq_and_optimality.html
