@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Week 5 [2025-10-21]
 tldr: "Review + Extensions and Applications of Context-based Methods"
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
  - url: /static_files/arithmetic_context_coding_ee274.pdf
    name: slides 

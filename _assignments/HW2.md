@@ -5,7 +5,7 @@ type: assignment
 title: 'HW2'
 due: '10/14/2025 - 10/28/2025'
 link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW2.html
-# sol_link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW2_sol.html
+sol_link: https://stanforddatacompressionclass.github.io/notes/homeworks/HW2_sol.html
 hide_from_announcments: true
 
 [//]: # (due_event:)
