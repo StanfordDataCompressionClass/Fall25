@@ -4,7 +4,7 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Week 6 [2025-10-28]
 tldr: "Guest Lecture on OpenZL by Yann Collet (https://www.linkedin.com/in/yann-collet-5ba1904/)"
-hide_from_announcments: false
+hide_from_announcments: true
 links: 
  - url: /static_files/OpenZL.pdf
    name: slides 

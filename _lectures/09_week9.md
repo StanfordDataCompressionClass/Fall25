@@ -4,12 +4,12 @@ type: lecture
 [//]: # (date: 2022-09-29)
 title: Week 9 [2025-11-18]
 tldr: "Guest lecture on learning-based compression"
-hide_from_announcments: true
+hide_from_announcments: false
 links: 
 #  - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/prefix_free_codes.html
 #    name: Prefix Free Codes notes
-#  - url: /static_files/L2_ann.pdf
-#    name: slides 
+ - url: /static_files/state_of_compression_pdf.pdf
+   name: slides 
 ##    - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/kraft_ineq_and_optimality.html
 ##      name: Kraft Inequality notes
 #  - url: https://youtu.be/EKdlz3vae04?list=PLoROMvodv4rPj4uhbgUAaEKwNNak8xgkz
