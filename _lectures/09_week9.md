@@ -3,7 +3,7 @@ type: lecture
 
 [//]: # (date: 2022-09-29)
 title: Week 9 [2025-11-18]
-tldr: "Guest lecture on learning-based compression"
+tldr: "Developments in leanrning-based image compression"
 hide_from_announcments: false
 links: 
 #  - url: https://stanforddatacompressionclass.github.io/notes/lossless_iid/prefix_free_codes.html
